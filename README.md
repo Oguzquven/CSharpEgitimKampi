@@ -1,6 +1,6 @@
 # 🌟 C# Eğitim Kampı - Murat Yücedağ
 
-Bu repo, [Murat Yücedağ'ın YouTube'daki](https://www.youtube.com/@muratyucedag) **C# Eğitim Kampı** sürecinde tamamladığım projeleri içermektedir. Eğitim sürecinde, temel programlama kavramlarından ileri düzey konulara kadar birçok C# özelliğini öğrenip uygulama fırsatı buldum.
+Bu repo, [Murat Yücedağ'ın YouTube'daki]([https://www.youtube.com/@muratyucedag](https://www.youtube.com/playlist?list=PLKnjBHu2xXNPmFMvGKVHA_ijjrgUyNIXr)) **C# Eğitim Kampı** sürecinde tamamladığım projeleri içermektedir. Eğitim sürecinde, temel programlama kavramlarından ileri düzey konulara kadar birçok C# özelliğini öğrenip uygulama fırsatı buldum.
 
 ---
 
