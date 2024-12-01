@@ -45,6 +45,12 @@ Her bir proje, belirli bir C# kavramını anlamak ve uygulamak amacıyla yapılm
 
 8. **Geriye Değer Döndüren Fonksiyonlar**  
    > 🎗️ Kullanıcıdan alınan verileri işleyen ve sonuç döndüren fonksiyonlar.
+   
+9. **DatabaseProject**  
+   > 🗄️ SQL bağlantısı ve CRUD işlemleri içeren bir proje. Veri tabanı oluşturma, veri ekleme, güncelleme, silme ve okuma işlemleri gerçekleştirildi.
+
+10. **DatabaseCrud**  
+    > 🗂️ Veritabanı CRUD işlemlerini kapsamlı bir şekilde ele alan proje. Kullanıcı giriş-çıkış, kayıt yönetimi, veritabanı güncellemeleri gibi işlemleri içerir.
 
 ---
 
